@@ -12,7 +12,7 @@
 
 - (NSUInteger)submoduleA
 {
-    return 2001;
+    return 4002;
 }
 
 @end
